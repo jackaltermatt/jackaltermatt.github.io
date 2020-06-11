@@ -1,7 +1,7 @@
 body {
 	font-family: Helvetica,Arial,sans-serif;
 	font-size: 32px;
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/weblayout.png);
+	background-image: url("images/weblayout.png");
 	
 	background-repeat: no-repeat;
 	background-size: cover; 
@@ -31,7 +31,7 @@ a {
 	height: 75px; 
 	border-radius: 100%;
 	background-color: #3953a4; 
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/Bee.png); 
+	background-image: url("images/bee.png"); 
 	background-size: cover;  
 	position: fixed;
 	right: 10px; 
@@ -45,7 +45,7 @@ a {
 	width: 75px;
 	height: 75px;
 	background-color: #faa21b;
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/SmallFlower_Inverted.png); 
+	background-image: url("images/smallflower_inverted.png"); 
 	background-size: cover;  
 	position: fixed;
 	right: 10px;
@@ -174,7 +174,7 @@ a {
 
 
 .letters1 {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_W.png);
+	background-image: url("images/illuminated_w.png");
 	
 	
 	background-size: cover;
@@ -184,12 +184,12 @@ a {
 }
 
 .letters1:hover {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_W_Green.png);
+	background-image: url("images/illuminated_w_green.png");
 	background-size: 100%;
 }
 
 .letters2 {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_A.png);
+	background-image: url("images/illuminated_a.png");
 	
 	
 	background-size: cover;
@@ -197,32 +197,32 @@ a {
 }
 
 .letters2:hover {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_A_Blue.png);
+	background-image: url("images/illuminated_a_b.png");
 	background-size: 100%;
 
 }
 
 .letters3 {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_S.png);
+	background-image: url("images/illuminated_s.png");
 	
 	background-size: cover;
 	
 }
 
 .letters3:hover {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_S_Orange.png);
+	background-image: url("images/illuminated_s_orange.png");
 	background-size: 100%;
 
 }
 
 .letters4 {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_D.png);
+	background-image: url("images/illuminated_d.png");
 	
 	background-size: cover;
 }
 
 .letters4:hover {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/ILLUMINATED_D_Red.png);
+	background-image: url("images/illuminated_d_red.png");
 	background-size: 100%;
 
 }
@@ -233,7 +233,7 @@ a {
 
 
 .keys {
-	background-image: url(file:///C:/Users/Duckie/Desktop/dpub/WeirdSignals/assets/images/FlowerBackingImage.png);
+	background-image: url("images/flowerbackingimage.png");
 	background-size: cover;	
 	
 	height: 1200px; 
