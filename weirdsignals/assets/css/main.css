@@ -1,7 +1,7 @@
 body {
 	font-family: Helvetica,Arial,sans-serif;
 	font-size: 32px;
-	background-image: url("images/weblayout.png");
+	background-image: url("images/weblayout2.png");
 	
 	background-repeat: no-repeat;
 	background-size: cover; 
@@ -31,7 +31,7 @@ a {
 	height: 75px; 
 	border-radius: 100%;
 	background-color: #3953a4; 
-	background-image: url("images/bee.png"); 
+	background-image: url("images/bee2.png"); 
 	background-size: cover;  
 	position: fixed;
 	right: 10px; 
@@ -45,7 +45,7 @@ a {
 	width: 75px;
 	height: 75px;
 	background-color: #faa21b;
-	background-image: url("images/smallflower_inverted.png"); 
+	background-image: url("images/smallflower_inverted2.png"); 
 	background-size: cover;  
 	position: fixed;
 	right: 10px;
@@ -174,7 +174,7 @@ a {
 
 
 .letters1 {
-	background-image: url("images/illuminated_w.png");
+	background-image: url("images/illuminated_w2.png");
 	
 	
 	background-size: cover;
@@ -189,7 +189,7 @@ a {
 }
 
 .letters2 {
-	background-image: url("images/illuminated_a.png");
+	background-image: url("images/illuminated_a2.png");
 	
 	
 	background-size: cover;
@@ -203,7 +203,7 @@ a {
 }
 
 .letters3 {
-	background-image: url("images/illuminated_s.png");
+	background-image: url("images/illuminated_s2.png");
 	
 	background-size: cover;
 	
@@ -216,7 +216,7 @@ a {
 }
 
 .letters4 {
-	background-image: url("images/illuminated_d.png");
+	background-image: url("images/illuminated_d2.png");
 	
 	background-size: cover;
 }
@@ -233,7 +233,7 @@ a {
 
 
 .keys {
-	background-image: url("images/flowerbackingimage.png");
+	background-image: url("images/flowerbackingimage2.png");
 	background-size: cover;	
 	
 	height: 1200px; 
